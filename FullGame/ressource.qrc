@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>flyer.jpg</file>
+        <file>flyer2.jpg</file>
+        <file>flyer3.jpg</file>
+        <file>vandal.png</file>
+        <file>logo1.png</file>
+        <file>music.wav</file>
+        <file>F_bruinwalk.png</file>
+        <file>F_broken.png</file>
+        <file>F_john.png</file>
+        <file>pauly.png</file>
+        <file>F_football.png</file>
+        <file>F_hill.png</file>
+        <file>F_plaza.png</file>
+        <file>F_won.png</file>
+        <file>F_pedestrian.png</file>
+        <file>F_bwalk.png</file>
+        <file>F_bird.png</file>
+        <file>F_lime.png</file>
+        <file>tommy.png</file>
+        <file>F_bear.png</file>
+        <file>F_Snakes.jpg</file>
+        <file>F_recycle.png</file>
+    </qresource>
+</RCC>

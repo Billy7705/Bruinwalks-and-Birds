@@ -1,0 +1,1 @@
+This project was a video game coded in C++ and ran using Qt. It was made with me and another partner with work divided equally between us. The game itself is a snakes and ladders style board game with 2 subsequent mini-games spread throughout that will pop up as you land on different tiles on the board. 
